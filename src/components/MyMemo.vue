@@ -106,6 +106,7 @@ export default{
 <style scoped>
 h1 {
   font-size: 30px;
+  margin: 3px auto;
 }
 
 .memo-body {
@@ -151,7 +152,7 @@ textarea {
   width: 90%;
   font-size: 24px;
   margin-top: 20px;
-  height: calc( 2em * 13 );
+  height: calc( 2em * 11.5 );
   line-height: 1.3;
   padding: 20px;
 }
