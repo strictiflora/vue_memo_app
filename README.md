@@ -2,23 +2,10 @@
 
 ## Project setup
 ```
-npm install
+$ git clone https://github.com/strictiflora/vue_memo_app.git
+$ cd vue_memo_app
+$ npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Start the app
+execute `$ npm run serve` and then access http://localhost:8080/.
